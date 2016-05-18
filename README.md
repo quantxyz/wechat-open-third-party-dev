@@ -13,15 +13,15 @@
 
 - - -
 ## 项目文档
-[微信公众号第三方平台开发python教程 Part 1](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-one.htm)
-[微信公众号第三方平台开发python教程 Part 2](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-two.htm)
-[微信公众号第三方平台开发python教程 Part 3](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-three.htm)
-[微信公众号第三方平台开发python教程 Part 4](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-four.htm)
-[微信公众号第三方平台开发python教程 Part 5](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-five.htm)
-[微信公众号第三方平台开发python教程 Part 6](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-six.htm)
-[微信公众号第三方平台开发python教程 Part 7](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-seven.htm)
-[微信公众号第三方平台开发python教程 Part 8](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-eight.htm)
-[微信公众号第三方平台开发python教程 Part 9](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-nine.htm)
+- [微信公众号第三方平台开发python教程 Part 1](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-one.htm)
+- [微信公众号第三方平台开发python教程 Part 2](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-two.htm)
+- [微信公众号第三方平台开发python教程 Part 3](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-three.htm)
+- [微信公众号第三方平台开发python教程 Part 4](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-four.htm)
+- [微信公众号第三方平台开发python教程 Part 5](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-five.htm)
+- [微信公众号第三方平台开发python教程 Part 6](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-six.htm)
+- [微信公众号第三方平台开发python教程 Part 7](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-seven.htm)
+- [微信公众号第三方平台开发python教程 Part 8](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-eight.htm)
+- [微信公众号第三方平台开发python教程 Part 9](http://dev.cppfun.com/develop-wechat-public-third-party-platforms-in-python-part-nine.htm)
 
 - - -
 ## 代码介绍
